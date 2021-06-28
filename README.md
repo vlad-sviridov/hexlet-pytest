@@ -1,4 +1,4 @@
-# hexletpytest
+# hexlet-pytest
 
 This project was build using these tools:
 - [poetry](https://poetry.eustace.io/)
